@@ -1,0 +1,10 @@
+server: #
+  port: #
+  host: #
+  netty: #
+    worker-count: #
+    boss-count: #
+    keep-alive: #
+    backlog: #
+
+
